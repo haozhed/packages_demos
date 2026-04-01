@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "app_list.h": "c",
+        "clock_index.h": "c",
+        "utils.h": "c",
+        "clock_view.h": "c",
+        "timer.h": "c",
+        "math.h": "c",
+        "time.h": "c",
+        "controlcenterscreen.h": "c",
+        "message.h": "c",
+        "main_page.h": "c",
+        "timer_main.h": "c",
+        "choose_dial.h": "c",
+        "contrlocenterimage.h": "c",
+        "controlcenterpresenter.h": "c",
+        "circle_screen.h": "c",
+        "settings_main.h": "c",
+        "watch_start.h": "c",
+        "font_manager.h": "c",
+        "list.h": "c",
+        "malloc.h": "c",
+        "alarm_view.h": "c",
+        "alarm_model.h": "c",
+        "alarm_presenter.h": "c",
+        "alarm_main.h": "c",
+        "nav_page_manager.h": "c",
+        "calendar_main.h": "c",
+        "weather_app.h": "c"
+    }
+}
